@@ -1,4 +1,9 @@
-# 1.0.0 (2021-01-08)
+## 1.0.1 (2021-01-08)
+
+
+### Bug Fixes
+
+* **config:** 去除模块选项 ([5d74810](https://github.com/huandhu/Commitizen/commit/5d74810c00ffb536a7bd5744b7208ef202449089))
 
 
 ### Features
