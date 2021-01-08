@@ -15,12 +15,7 @@ module.exports = {
         {value: 'WIP',      name: 'WIP:      进行中的工作'}
     ],
 
-    scopes: [
-        {name: '模块1'},
-        {name: '模块2'},
-        {name: '模块3'},
-        {name: '模块4'}
-    ],
+    scopes: [],
 
     // it needs to match the value for field type. Eg.: 'fix'
     /*
