@@ -47,6 +47,7 @@ module.exports = {
 
     allowCustomScopes: true,
     allowBreakingChanges: ['特性', '修复'],
+    footerPrefix: '',
 
     // limit subject length
     subjectLimit: 100
