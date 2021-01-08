@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md"
   },
   "author": "",
   "license": "ISC",
@@ -12,6 +13,8 @@
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
     "commitlint-config-cz": "^0.13.2",
+    "conventional-changelog": "^3.1.24",
+    "conventional-changelog-cli": "^2.1.1",
     "cz-conventional-changelog": "^3.3.0",
     "cz-customizable": "^6.3.0",
     "husky": "^4.3.7"
