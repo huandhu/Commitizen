@@ -12,7 +12,6 @@ module.exports = {
         {value: 'test',     name: 'test:    添加一个测试'},
         {value: 'chore',    name: 'chore:    开发工具变动(构建、脚手架工具等)'},
         {value: 'revert',   name: 'revert:    代码回退'},
-        // {value: 'WIP',      name: 'WIP:      Work in progress'}
     ],
 
     scopes: [
